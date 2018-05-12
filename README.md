@@ -1,1 +1,3 @@
-# AcadGild_BigData_Assignment_1.2
+Assignment 1.2
+
+Please view the pdf.
